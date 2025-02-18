@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Hamudi Hasan Sonet 👋  
 
-<!--
-**hhsonet/hhsonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Programmer** at UIU CITS | 🎓 **Faculty** (CSE & EDS)  
+💡 **Web & Mobile Tech | Project Management | Hardware Projects**  
+🚀 Passionate about simplifying complexity & making learning engaging!  
 
-Here are some ideas to get you started:
+### 🔧 Tech & Skills  
+- **Languages**: C, Java, JavaScript, Python  
+- **Web & Mobile**: PHP, Android Native  
+- **Tools & Platforms**: Git, Moodle
+- **Interests**: Blended Learning, EdTech, Software-Hardware Integration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects & Repositories  
+- [SuperSimpleC](https://github.com/HHSonet/SuperSimpleC) – C programming problems & solutions  
+- More coming soon...  
+
+### 📫 Connect with Me  
+- LinkedIn: [linkedin.com/in/hhsonet](https://linkedin.com/in/hhsonet)  
+- GitHub: [github.com/HHSonet](https://github.com/HHSonet)  
